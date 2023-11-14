@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1sh4sk/BroMag/static/css/main.241951ba.css",
+    "main.js": "/1sh4sk/BroMag/static/js/main.d65c7b88.js",
+    "index.html": "/1sh4sk/BroMag/index.html",
+    "main.241951ba.css.map": "/1sh4sk/BroMag/static/css/main.241951ba.css.map",
+    "main.d65c7b88.js.map": "/1sh4sk/BroMag/static/js/main.d65c7b88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.d65c7b88.js"
+  ]
+}
